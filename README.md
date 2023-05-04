@@ -1,4 +1,4 @@
-# BT100-L-Pumps-application
+# BT100-L-Pumps-application(Developed in python)
 
 It is especially developed for BT100-L water pumps widely used in water waster management Projects/Researches.
 
