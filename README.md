@@ -1,5 +1,4 @@
 # BT100-L-Pumps-application
-This is an open source application to send commands to water pumps in an efficient manner.
 
 It is especially developed for BT100-L water pumps widely used in water waster management Projects/Researches.
 
